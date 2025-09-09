@@ -38,11 +38,7 @@ Messages are newline-delimited JSON. Key packets implemented by the client:
 Server responses handled:
 - `assign_id`, `init_ack`, `login_ack`, `client_list`, `message`, `is_typing`, `set_name`, `set_status`.
 
-## Demo
-Place your assets under `demo/` and keep file sizes reasonable.
 
-- Screenshot: `demo/client-ui.png`  
-- Short GIF: `demo/client-chat.gif`
 
 ```markdown
 ![Client UI](demo/client-ui.png)
