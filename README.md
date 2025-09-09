@@ -40,6 +40,4 @@ Server responses handled:
 
 
 
-```markdown
-![Client UI](demo/client-ui.png)
-![Chat Demo](demo/client-chat.gif)
+
